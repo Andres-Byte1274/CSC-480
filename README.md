@@ -64,3 +64,5 @@ Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 ------------------------------------------
 ### License
 This project is licensed under the MIT - see the [LICENSE](./LICENSE) file for details.
+
+You can naviagte through the simulation using the a, s, w, and d keys. This will let you look at the different intersections.
